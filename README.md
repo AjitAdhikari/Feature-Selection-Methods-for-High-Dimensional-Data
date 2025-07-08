@@ -165,15 +165,6 @@ After running this demo, you'll understand:
 - The impact of feature selection on high-dimensional datasets
 - Best practices for feature selection pipelines
 
-## 🔍 Use Cases
-
-This demo is perfect for:
-- **Students** learning machine learning and feature engineering
-- **Data Scientists** exploring feature selection techniques
-- **Researchers** comparing different selection methods
-- **Practitioners** building feature selection pipelines
-- **Educators** teaching dimensionality reduction concepts
-
 ## 🤝 Contributing
 
 Contributions are welcome! Ideas for enhancement:
