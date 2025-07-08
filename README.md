@@ -170,6 +170,7 @@ Perfect for:
 - **Method Comparison**: Different approaches select different feature subsets
 - **Visualization**: Critical for understanding feature relationships
 
+<<<<<<< HEAD
 ## 🔍 Use Cases
 
 - **High-dimensional datasets** with many irrelevant features
@@ -179,6 +180,9 @@ Perfect for:
 - **Comparative analysis** of different selection strategies
 
 ## 🔗 Further Reading
+=======
+## 🤝 Contributing
+>>>>>>> 70311cfb511cff6e61ac2bf485cb3826a055623b
 
 - [Feature Selection Guide - scikit-learn](https://scikit-learn.org/stable/modules/feature_selection.html)
 - [Mutual Information Theory](https://en.wikipedia.org/wiki/Mutual_information)
